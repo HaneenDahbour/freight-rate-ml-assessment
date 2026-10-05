@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+vendor/
+data/*.csv
+artifacts/*.pkl
+artifacts/*.cbm
+*.log
